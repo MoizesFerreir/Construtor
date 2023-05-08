@@ -8,6 +8,7 @@ Um construtor é um método cujo nome é igual ao nome de seu tipo. Sua assinatu
 
 ## Sintaxe do Construtor
 
-Um construtor é um método cujo nome é igual ao nome de seu tipo. Sua assinatura do método inclui apenas um modificador de acesso opcional, o nome do método e sua lista de parâmetros; ela não inclui tipo de retorno. 
+Um construtor é um método cujo nome é igual ao nome de seu tipo. Sua assinatura do método inclui apenas um modificador de acesso opcional, o nome do método e sua lista de parâmetros; ela não inclui tipo de retorno.
+Posso ter mais de um construtor, desde que eles tenham alguma diferença.
 
 ![code](https://user-images.githubusercontent.com/91918988/236368956-08b45fdb-1ca6-4cc6-80bb-eb9382ac71ec.png)
